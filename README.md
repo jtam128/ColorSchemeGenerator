@@ -1,13 +1,16 @@
-# co73343ea8c93c5d396d7ac67
+# Color Scheme Generator
+
+A simple color scheme generator that uses [The Color API](https://www.thecolorapi.com/) to generate color suggestions based on user inputs.
 
 Quick start:
 
 ```
 $ npm install
 $ npm start
-````
+```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
