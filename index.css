@@ -39,7 +39,7 @@ body {
 }
 
 @media screen and (min-width: 600px) {
-  #color-section {
+  #color-display-section {
     display: flex;
     justify-content: space-around;
   }

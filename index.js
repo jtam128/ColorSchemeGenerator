@@ -1,7 +1,7 @@
 document.getElementById("get-colors-btn").addEventListener("click", getColors);
 const seedColor = document.getElementById("seed-color");
 const modeSelect = document.getElementById("color-scheme");
-const colorSection = document.getElementById("color-section");
+const colorSection = document.getElementById("color-display-section");
 
 function getColors() {
   const selectedSeed = seedColor.value.substring(1);
@@ -22,7 +22,6 @@ function displayColors(data) {
               <h3 id="hex-value">${color.hex.value}</h3>
             </div>`;
   }
-
   copyToClipboard();
 }
 
