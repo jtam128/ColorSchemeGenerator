@@ -2,6 +2,12 @@
 
 A simple color scheme generator that uses [The Color API](https://www.thecolorapi.com/) to generate color suggestions based on user inputs.
 
+## Screenshot
+
+![csg-gif](/images/csg-gif.gif)
+
+---
+
 Quick start:
 
 ```
