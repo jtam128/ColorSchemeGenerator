@@ -6,6 +6,9 @@ A simple color scheme generator that uses [The Color API](https://www.thecolorap
 
 ![csg-gif](/images/csg-gif.gif)
 
+Smaller width screen shown below:
+![small-width](/images/small-width-screen.png)
+
 ---
 
 Quick start:
